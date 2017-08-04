@@ -1,2 +1,0 @@
-# junot
-optimal
